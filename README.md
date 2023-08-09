@@ -1,7 +1,11 @@
-# team2-wave
+Wawe
+--------------------------
+
 School project 
 
 Link of figma template https://buildhtml.ru/template/234
+
+---------------------------
 
 In our school project, we embarked on an exciting journey to develop a functional and visually appealing website using the power of HTML, CSS, and Bootstrap. Our objective was to showcase our proficiency in frontend development and demonstrate our ability to create a responsive and user-friendly web interface.
 
@@ -17,3 +21,7 @@ With the importance of mobile-friendly design in mind, we implemented responsive
 The culmination of our efforts was a well-crafted and polished website that effectively met the needs of "Wawe". By combining HTML's structure, CSS's styling prowess, and Bootstrap's responsiveness, we successfully brought the brand's vision to life in the digital world. Our project not only showcased our technical skills but also highlighted our ability to collaborate, problem-solve, and deliver results.
 
 Through this experience, we gained hands-on experience in frontend development, deepened our understanding of responsive design, and honed our skills in using popular frameworks like Bootstrap to streamline the development process. Our project served as a testament to the power of HTML, CSS, and Bootstrap in creating impactful and user-centric web experiences.
+
+
+
+
